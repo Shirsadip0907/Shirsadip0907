@@ -75,16 +75,10 @@ I'm passionate about building intelligent applications using **Machine Learning,
   <img src="https://img.shields.io/badge/Semantic%20Search-1565C0?style=for-the-badge"/>
 </p>
 
-### 🌐 Web Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,spring,tailwind" />
-</p>
-
 ### 🗄️ Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=chromadb,mysql" />
 </p>
 
 ### ⚙️ Tools & Platforms
@@ -158,19 +152,6 @@ A full-stack platform designed to connect blood donors and recipients.
 🤖 Machine Learning
 🧠 Deep Learning
 ```
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shirsadip0907&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shirsadip0907&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shirsadip0907&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
