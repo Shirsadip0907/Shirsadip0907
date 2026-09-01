@@ -112,7 +112,7 @@ I'm passionate about building intelligent applications using **Machine Learning,
 
 ## ⚡ Fun Fact
 
-> I enjoy transforming AI concepts like **LLMs, RAG and Agentic AI** into practical applications that solve real-world problems.
+I enjoy transforming AI concepts like **LLMs, RAG and Agentic AI** into practical applications that solve real-world problems.
 
 ---
 
